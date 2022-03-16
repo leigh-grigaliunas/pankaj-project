@@ -63,7 +63,7 @@ nav a:hover {
 }
 /** begin about  **/
 
-.about {
+.about, .shop {
   width: 70%;
   margin: auto;
   text-align: justify;
